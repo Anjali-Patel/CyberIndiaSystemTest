@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CybIndigoProject</string>
+    <string name="submit">Submit</string>
+    <string name="password">Password</string>
+    <string name="enter_your_email_id">Enter your Email id</string>
+    <string name="search">Search</string>
+    <string name="current_location">Current Location</string>
+    <string name="logout">Logout</string>
+    <string name="want_logout">Do you Want to logout??</string>
+    <string name="check_internetConnection">Check Internet Connection</string>
+    <string name="loading">Loading</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="network_error">Please check your Internet connection.</string>
+    <string name="google_maps_key">AIzaSyBbvM2Ef3Rrtn9XS61pJk8NmEt8le767qA</string>
+</resources>
